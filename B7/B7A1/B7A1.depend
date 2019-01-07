@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545093477 source:m:\adip\b7\b7a1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545092808 source:m:\adip\b7\a1.c
+	<stdio.h>
+	<stdlib.h>
+
